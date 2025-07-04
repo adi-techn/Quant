@@ -6,7 +6,8 @@ This repository is a curated collection of code, tools, and experiments designed
 ![Repo Size](https://img.shields.io/github/repo-size/adi-techn/quant-stock-analysis)
 ![Last Commit](https://img.shields.io/github/last-commit/adi-techn/quant-stock-analysis)
 ![Top Language](https://img.shields.io/github/languages/top/adi-techn/quant-stock-analysis)
-![Language Count](https://img.shields.io/github/languages/count/adi-techn/quant-stock-analysis)
+![Languages Count](https://img.shields.io/github/languages/count/adi-techn/quant-stock-analysis)
+
 
 ---
 
